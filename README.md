@@ -5,7 +5,7 @@
 <strong> Client </strong> - React.js
 
 
-<strong><u>To Run</u></strong>:
+<strong> <ins> To Run </ins> </strong>:
 
 <strong> Client </strong>
     - npm install (in the chat-app folder)
