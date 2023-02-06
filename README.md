@@ -1,15 +1,15 @@
 <h1> Chat Application </h1>
 
-Server: - Spring boot Websocket
+<strong> Server </strong> : - Spring boot Websocket
 
-Client - React.js
+<strong> Client </strong> - React.js
 
 
-To Run:
+<strong><u>To Run</u></strong>:
 
-Client
+<strong> Client </strong>
     - npm install (in the chat-app folder)
     - npm start
-Server
+<strong> Server</strong>
     - mvn spring-boot:run (in the chatServer)
 
