@@ -7,9 +7,9 @@
 
 <strong> <ins> To Run </ins> </strong>:
 
-<strong> Client </strong>
-    - npm install (in the chat-app folder)
-    - npm start
-<strong> Server</strong>
+<strong> Client </strong><br>
+    - npm install (in the chat-app folder)<br>
+    - npm start<br>
+<strong> Server</strong><br>
     - mvn spring-boot:run (in the chatServer)
 
